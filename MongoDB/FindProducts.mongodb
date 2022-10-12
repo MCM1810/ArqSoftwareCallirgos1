@@ -1,0 +1,4 @@
+//Connection to Database
+
+db
+db.products.find({})

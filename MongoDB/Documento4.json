@@ -1,0 +1,12 @@
+{
+    "nombre":"Megaman",
+    "description":"Acompaña a megaman en una aventura futurista llena de accion",
+    "tags": ["Aventura, Accion"],
+    "Marca": "Capcom",
+    "Emulador": "DIVE",
+    "Num_descargas":20,
+    "Creador":{
+        "nombre": "Akira Kitamura",
+        "ocupacion": "Diseñador de videojuegos"
+    }
+}

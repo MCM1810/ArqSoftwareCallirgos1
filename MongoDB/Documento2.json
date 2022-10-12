@@ -1,0 +1,12 @@
+{
+    "nombre":"SuperMario64",
+    "description":"Super mario abarca en una aventura en 3d para rescatar a la princesa Peach de las garras de bowser",
+    "tags": ["Adventura","Accion"],
+    "Marca": "Nintendo",
+    "Emulador": "Nintendo 64",
+    "Num_descargas":14,
+    "Creador":{
+        "nombre": "Iyake Miyamoto",
+        "ocupacion": "Diseñador de videojuegos"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "nombre":"Donkey Kong Country",
+    "description":"Donkey kong y su amigo diddy Kong debe de recorrer la isla para recuperar sus bananas del malvado ",
+    "tags": ["Adventura","Accion"],
+    "Marca": "Nintendo",
+    "Emulador": "SNES",
+    "Num_descargas":9,
+    "Creador":{
+        "nombre": "Gregg Mayles",
+        "ocupacion": "Diseñador de videojuegos"
+    }
+}
+    

@@ -1,0 +1,12 @@
+db
+
+db.products.insert([
+  {
+  "nombre":"Pacman",
+    "description":"Obten toda las bolas del juego y no dejes que los fantasma de atrapen",
+    "tags": ["Arcade, Accion"],
+    "Marca": "Bandai Namco",
+    "Emulador": "NES",
+    "Num_descargas":16
+  
+}])
